@@ -5,5 +5,5 @@ def hello
 end
 
 def greet(name)
- 	"Hello, "+name+"!"
+ 	"Hello, #{name}!"
 end
